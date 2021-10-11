@@ -7,7 +7,7 @@ If you are aware about P10 boards then you have to agree with huge role of P10 o
 In first we are going to use simplest microcontroller which is "Arduino UNO" in our Project. 
 
 YOUR WORK:
-- [x] Just code cool animation programs using your own logic and understanding in C/C++ further It will use by us in creating Arduino Sketches . :tada:  
+- [x] Just code cool animation programs using your own logic and understanding in C/C++ or other suitable lang. further It will use by us in creating Arduino Sketches . :tada:  
 
 
 ## Through HACKTOBERFEST 2021 ~
