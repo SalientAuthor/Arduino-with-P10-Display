@@ -24,5 +24,4 @@ YOUR WORK:
 
 
 
-!(https://circuitdigest.com/fullimage?i=circuitdiagram_mic/Digital-Notice-Board-using-P10-LED-Matrix-Display-and-Arduino-Circuit-Diagram.png)
-
+![P10 Config](https://circuitdigest.com/sites/default/files/circuitdiagram_mic/Digital-Notice-Board-using-P10-LED-Matrix-Display-and-Arduino-Circuit-Diagram.png)
