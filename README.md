@@ -7,7 +7,7 @@ If you are aware about P10 boards then you have to agree with huge role of P10 o
 In first we are going to use simplest microcontroller which is "Arduino UNO" in our Project. 
 
 YOUR WORK:
-- [x] Just code cool animation programs in C/C++ further It will use by us in Arduino Sketch . :tada:  
+- [x] Just code cool animation programs using your own logic and understanding in C/C++ further It will use by us in creating Arduino Sketches . :tada:  
 
 
 ## Through HACKTOBERFEST 2021 ~
@@ -17,4 +17,8 @@ YOUR WORK:
 * all your "hacktoberfest-accepted" effort/workdone leads you to the amazing swag T-shirt OR Saving tree initiative.
 * Create your creative piece of code in "[filename]".md, "[filename]".txt in seperate folder named P10-Animation.      
  
+#### REMEMBER ~
+
+- [P10-animations/example.ino] is only for giving you rough idea of actual p10 board program so don't go through that file.
+- Just make only C/C++ or other languages animation program for fun/learning perspective wise. 
 
