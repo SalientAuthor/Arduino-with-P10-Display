@@ -6,7 +6,8 @@ A P10 LED Display Module is the most suitable for designing any size of outdoor 
 If you are aware about P10 boards then you have to agree with huge role of P10 or similar kinda boards in Advertisements as well, So Basically This Repository is all about different different kinds of animations and creative scripting of codes for simple p10 board in ardunio IDE.
 In first we are going to use simplest microcontroller which is "Arduino UNO" in our Project. 
 
-- [x] Just code cool animation programs in C/C++ but must arduino IDE supported. :tada:  
+YOUR WORK:
+- [x] Just code cool animation programs in C/C++ further It will use by us in Arduino Sketch . :tada:  
 
 
 ## Through HACKTOBERFEST 2021 ~
