@@ -22,3 +22,7 @@ YOUR WORK:
 - [P10-animations/example.ino] is only for giving you rough idea of actual p10 board program so don't go through that file.
 - Just make only C/C++ or other languages animation program for fun/learning perspective wise. 
 
+
+
+!(https://circuitdigest.com/fullimage?i=circuitdiagram_mic/Digital-Notice-Board-using-P10-LED-Matrix-Display-and-Arduino-Circuit-Diagram.png)
+
