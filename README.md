@@ -19,9 +19,10 @@ YOUR WORK:
  
 #### REMEMBER ~
 
-- [P10-animations/example.ino] is only for giving you rough idea of actual p10 board program so don't go through that file.
+- [P10-animations/example.ino] is only for giving you rough idea of actual p10 board program so go for animation logics through that file.
 - Just make only C/C++ or other languages animation program for fun/learning perspective wise. 
 
 
 # D.I.Y Config
 ![P10 Config](https://circuitdigest.com/sites/default/files/projectimage_mic/Digital-Notice-Board-using-P10-LED-Matrix-Display-and-Arduino.jpg)
+![Working of](https://www.google.com/url?sa=i&url=http%3A%2F%2Felectrobist.com%2Fproduct%2Fp10-led-module%2F&psig=AOvVaw3gGP00s71-zCt5m3wlrkCw&ust=1634101312531000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCMCPj_SLxPMCFQAAAAAdAAAAABAQ)
