@@ -26,7 +26,7 @@ s="HELLO";
   }
 
 ```
-## Through HACKTOBERFEST 2021 ~
+## Through Contribution ~
 
 * Improve your coding skills through this Repo.
 * Focus on animating things and objects.
