@@ -9,7 +9,23 @@ In first we are going to use simplest microcontroller which is "Arduino UNO" in 
 YOUR WORK:
 - [x] Just code cool animation programs using your own logic and understanding in C/C++ or other suitable lang. further It will use by us in creating Arduino Sketches . :tada:  
 
+Just try to make logic in similar manner~
 
+```C
+s="HELLO";
+  p=0;
+  
+  for (int i=2; i <= 30; i=i+6) {
+    sdis = s.substring(p,p+1);
+    sdis.toCharArray(c,2);
+    for (int j=-7; j <= 0; j++) {
+      dmd.drawString(i,j, c, 1, GRAPHICS_NORMAL);
+      delay(50);
+    }
+    p++;
+  }
+
+```
 ## Through HACKTOBERFEST 2021 ~
 
 * Improve your coding skills through this Repo.
